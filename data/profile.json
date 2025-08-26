@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "RafaeL Malaquias",
+  "photo": "https://avatars.githubusercontent.com/u/91689939?s=400&u=14de9ee00d2897446a240073af32c3c92c3bffa1&v=4",
+  "job": "Front End Developer",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(16) 00000-0000",
+  "email": "testeexemplodeemail@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -60,17 +60,17 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Front End Developer",
       "period": "2022 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Software Engineering",
       "period": "2021 - 2022",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
     },
     {
-      "name": "CEO / Brain Machine",
+      "name": "Script Jr Developer - MTA Brasil",
       "period": "2016 - 2021",
       "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
