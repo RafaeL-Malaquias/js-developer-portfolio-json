@@ -1,6 +1,6 @@
 {
   "name": "RafaeL Malaquias",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/91689939?s=96&v=4",
   "job": "Front-end Developer",
   "location": "São Paulo - SP",
   "phone": "(16) 00000-0000",
@@ -43,7 +43,7 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
+    "Espanhol (básico)",
     "Italiano (iniciante)"
   ],
   "portfolio": [
@@ -60,17 +60,17 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Front End Developer",
+      "period": "2024 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Software Engineering ",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "."
     },
     {
-      "name": "CEO / Brain Machine",
+      "name": "",
       "period": "2016 - 2021",
       "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
