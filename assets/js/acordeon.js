@@ -1,6 +1,6 @@
-
+// 
 const acordeonTriggers = document.querySelectorAll('.acordeon .trigger')
-
+    debugger
 acordeonTriggers.forEach((trigger) => {
     trigger.addEventListener('click', (e) => {
         const acordeon = trigger.parentElement
