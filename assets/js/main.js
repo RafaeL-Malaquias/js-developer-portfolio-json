@@ -1,5 +1,5 @@
 
-
+// Funçoes para buscar os dados do perfil no arquivo JSON
 
 function updateProfileInfo(profileData){
    const photo =  document.getElementById('profile.photo')
@@ -40,10 +40,25 @@ function updateLanguages(profileData) {
 
 }
 
+function updatePortfolio(portfolioData){
+    const portfolio  = document.getElementById('profile.portfolio');
+    portfolio.innerHTML = profileData.portfolio.map(project => {
+        return `
+        <li>
+            <h3 ${project.github ? 'class="github' : ' ' }>${project.name}</h3>
+            <a href="${project.url}" target="_blank">Acessar projeto</a>
+        </li>`
+    }).join('')
+}
+
+
+// chamando as funcoes 
+
 (async () =>{
      const profileData = await fetchProfileData();
      updateProfileInfo(profileData) // chamando a função para atualizar o perfil
      updateSoftSkills(profileData)
      hardSkills(profileData) // 
      updateLanguages(profileData)
-})()
+    updatePortfolio(profileData)
+    })()
