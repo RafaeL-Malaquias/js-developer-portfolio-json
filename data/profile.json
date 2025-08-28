@@ -7,13 +7,21 @@
   "email": "testeexemplodeemail@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "Nodejs",
+     {
+        "name": "HTML5",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/RafaeL-Malaquias/js-developer-portfolio/refs/heads/main/data/imgs/css.png?token=GHSAT0AAAAAAC3SS5B5KITZ7IUP7B5HI2K42FQWEDA"
+        },
+      {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Angular",
